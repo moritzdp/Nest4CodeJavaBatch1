@@ -16,7 +16,7 @@ public abstract class Bird {
   }
 
   public void sleep() {
-    System.out.println("Bird is sleep");
+    System.out.println("Bird is sleeping");
   }
 
 
